@@ -1,2 +1,1 @@
-# TanitiIslandWebsite
-A web development prototype project built using modern frontend technologies. This project is structured to follow best practices in web development and includes configuration files for TypeScript, Vite, and ESLint. It also supports deployment via Netlify.
+![image](https://github.com/user-attachments/assets/eafa7945-6b55-4511-857d-dc221db3da6d)
