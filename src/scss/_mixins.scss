@@ -1,0 +1,27 @@
+@import "variables";
+
+.blue {
+  color: $blue;
+}
+
+.some-mixin {
+  color: $light-grey;
+}
+
+
+.yellow {
+  color: $yellow;
+}
+
+.orange {
+  color: $orange;
+}
+
+@mixin orange-text {
+  color: $orange;
+}
+
+@mixin green-text {
+  color: $green;
+}
+

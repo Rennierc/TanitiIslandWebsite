@@ -1,0 +1,14 @@
+@import "variables";
+
+$theme-colors: (
+  "primary": $blue,
+  "secondary": $yellow,
+  "info": $green,
+  "danger": $red,
+  "dark": $charcoal,
+  "light": $white,
+);
+
+$btn-font-weight: bold;
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
